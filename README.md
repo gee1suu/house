@@ -47,12 +47,12 @@
   + [로그인](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/member/#로그인)
   + [아이디 찾기](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/member/#아이디-찾기)
   + [비밀번호 재설정](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/member/#비밀번호-재설정)
-  + [로그아웃](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/member/#로그아웃)
 + [회원](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/mypage/myupdate)
   + [판매자 신청](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/mypage/myupdate/#판매자-신청)
   + [회원정보 수정](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/mypage/myupdate/#회원정보-수정)
   + [비밀번호 변경](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/mypage/myupdate/#비밀번호-변경)
   + [회원탈퇴](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/mypage/myupdate/#회원탈퇴)
+  + [로그아웃](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/mypage/myupdate/#로그아웃)
 ### 커뮤니티
 + [커뮤니티홈](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/community)
   + [사진 인기글 TOP 9 조회](https://github.com/gee1suu/house/tree/main/WebContent/WEB-INF/community/#사진-인기글-TOP-9-조회)
