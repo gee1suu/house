@@ -13,3 +13,6 @@
 ## 회원탈퇴
 ![21](https://user-images.githubusercontent.com/80879666/199154712-0e955e4f-b22a-4e1c-a1b1-fedaa2c78c92.png)
 약관에 동의한 후 회원탈퇴를 진행할 수 있다.
+## 로그아웃
+![세미 최종발표](https://user-images.githubusercontent.com/80879666/199367551-9abccf62-15ce-40b2-86f9-0825f04c78dd.png)
+첫화면에서 우측 상단의 프로필 이미지를 클릭한 후 메뉴에서 로그아웃을 선택하면 로그아웃이 완료된다.
